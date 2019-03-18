@@ -1,1 +1,2 @@
 # Zazie_Lovina_Yelp
+This project pulls (with respect for Yelp API restrictions, so tediously) Yelp reviews for San Fransisco area restaurants Zazie and Lovina and applies several NLP topic modeling and sentiment analysis approaches to procure actionable insights. Areas of inquiry include negative review topics, reliability of correlation between sentiment and star rating, and contrasts between reviews included by Yelp for scoring and excluded by Yelp for scoring. 
